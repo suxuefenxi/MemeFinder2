@@ -105,4 +105,3 @@ if st.session_state.result_images:
 else:
     if query:  # 只有在用户输入后才显示提示信息
         st.write("没有找到匹配的表情包，请尝试其他描述！")
-r
